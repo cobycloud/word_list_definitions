@@ -14,5 +14,5 @@ Definitions were aggregated by leveraging Gwick's Word List and freeDictionaryAp
 - No License Present
 
 # Special Thanks
-Special thanks to Gwicks for hosting these word lists.
-Special thanks to freeDictionaryApi for the scrape.
+- Special thanks to Gwicks for hosting these word lists.
+- Special thanks to freeDictionaryApi for the scrape.
