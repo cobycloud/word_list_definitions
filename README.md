@@ -6,12 +6,12 @@ Definitions were aggregated by leveraging Gwick's Word List and freeDictionaryAp
 
 # Copyright Notice
 ## Definitions
-https://github.com/meetDeveloper/freeDictionaryAPI 
-LICENSE: https://github.com/meetDeveloper/freeDictionaryAPI/blob/master/LICENSE
+- [Github Repository](https://github.com/meetDeveloper/freeDictionaryAPI)
+- [Definitions API License](https://github.com/meetDeveloper/freeDictionaryAPI/blob/master/LICENSE)
 
 ## Word List
-http://www.gwicks.net/justwords.htm
-LICENSE: No License
+- [Word List Archive](http://www.gwicks.net/justwords.htm)
+- No License Present
 
 # Special Thanks
 Special thanks to Gwicks for hosting these word lists.
