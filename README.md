@@ -1,4 +1,4 @@
-# word_list_definitions
+# word_list_definitions 😎
 A compilation of definitions of US and UK English words.
 
 # Aggregation 
@@ -16,3 +16,4 @@ Definitions were aggregated by leveraging Gwick's Word List and freeDictionaryAp
 # Special Thanks
 - Special thanks to Gwicks for hosting these word lists.
 - Special thanks to freeDictionaryApi for the scrape.
+
